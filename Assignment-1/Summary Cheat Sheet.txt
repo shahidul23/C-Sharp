@@ -1,0 +1,7 @@
+Data        TypeMemory          SizeExample Usage
+bool            1               bytebool IsActive = true;
+char            2               byteschar Grade = 'A';
+int             4               bytesint Age = 25;
+double          8               bytesdouble Price = 19.99;
+decimal         16              bytesdecimal Salary = 5500.50M; 
+string        Varies            string Name = "Alice";

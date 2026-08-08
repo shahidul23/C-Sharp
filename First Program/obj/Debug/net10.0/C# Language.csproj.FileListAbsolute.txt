@@ -1,0 +1,28 @@
+C:\C# Language\bin\Debug\net10.0\C# Language.exe
+C:\C# Language\bin\Debug\net10.0\C# Language.deps.json
+C:\C# Language\bin\Debug\net10.0\C# Language.runtimeconfig.json
+C:\C# Language\bin\Debug\net10.0\C# Language.dll
+C:\C# Language\bin\Debug\net10.0\C# Language.pdb
+C:\C# Language\obj\Debug\net10.0\C# Language.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Language\obj\Debug\net10.0\C# Language.AssemblyInfoInputs.cache
+C:\C# Language\obj\Debug\net10.0\C# Language.AssemblyInfo.cs
+C:\C# Language\obj\Debug\net10.0\C# Language.csproj.CoreCompileInputs.cache
+C:\C# Language\obj\Debug\net10.0\C# Language.dll
+C:\C# Language\obj\Debug\net10.0\refint\C# Language.dll
+C:\C# Language\obj\Debug\net10.0\C# Language.pdb
+C:\C# Language\obj\Debug\net10.0\C# Language.genruntimeconfig.cache
+C:\C# Language\obj\Debug\net10.0\ref\C# Language.dll
+C:\C# Language\First Program\bin\Debug\net10.0\C# Language.exe
+C:\C# Language\First Program\bin\Debug\net10.0\C# Language.deps.json
+C:\C# Language\First Program\bin\Debug\net10.0\C# Language.runtimeconfig.json
+C:\C# Language\First Program\bin\Debug\net10.0\C# Language.dll
+C:\C# Language\First Program\bin\Debug\net10.0\C# Language.pdb
+C:\C# Language\First Program\obj\Debug\net10.0\C# Language.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Language\First Program\obj\Debug\net10.0\C# Language.AssemblyInfoInputs.cache
+C:\C# Language\First Program\obj\Debug\net10.0\C# Language.AssemblyInfo.cs
+C:\C# Language\First Program\obj\Debug\net10.0\C# Language.csproj.CoreCompileInputs.cache
+C:\C# Language\First Program\obj\Debug\net10.0\C# Language.dll
+C:\C# Language\First Program\obj\Debug\net10.0\refint\C# Language.dll
+C:\C# Language\First Program\obj\Debug\net10.0\C# Language.pdb
+C:\C# Language\First Program\obj\Debug\net10.0\C# Language.genruntimeconfig.cache
+C:\C# Language\First Program\obj\Debug\net10.0\ref\C# Language.dll
