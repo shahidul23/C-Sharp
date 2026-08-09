@@ -1,0 +1,15 @@
+C:\C# Language\AssignmentOperators\bin\Debug\net10.0\AssignmentOperators.exe
+C:\C# Language\AssignmentOperators\bin\Debug\net10.0\AssignmentOperators.deps.json
+C:\C# Language\AssignmentOperators\bin\Debug\net10.0\AssignmentOperators.runtimeconfig.json
+C:\C# Language\AssignmentOperators\bin\Debug\net10.0\AssignmentOperators.dll
+C:\C# Language\AssignmentOperators\bin\Debug\net10.0\AssignmentOperators.pdb
+C:\C# Language\AssignmentOperators\obj\Debug\net10.0\AssignmentOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Language\AssignmentOperators\obj\Debug\net10.0\AssignmentOperators.AssemblyInfoInputs.cache
+C:\C# Language\AssignmentOperators\obj\Debug\net10.0\AssignmentOperators.AssemblyInfo.cs
+C:\C# Language\AssignmentOperators\obj\Debug\net10.0\AssignmentOperators.csproj.CoreCompileInputs.cache
+C:\C# Language\AssignmentOperators\obj\Debug\net10.0\AssignmentOperators.sourcelink.json
+C:\C# Language\AssignmentOperators\obj\Debug\net10.0\AssignmentOperators.dll
+C:\C# Language\AssignmentOperators\obj\Debug\net10.0\refint\AssignmentOperators.dll
+C:\C# Language\AssignmentOperators\obj\Debug\net10.0\AssignmentOperators.pdb
+C:\C# Language\AssignmentOperators\obj\Debug\net10.0\AssignmentOperators.genruntimeconfig.cache
+C:\C# Language\AssignmentOperators\obj\Debug\net10.0\ref\AssignmentOperators.dll

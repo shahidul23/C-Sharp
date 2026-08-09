@@ -1,0 +1,15 @@
+C:\C# Language\AreaCalculator\bin\Debug\net10.0\AreaCalculator.exe
+C:\C# Language\AreaCalculator\bin\Debug\net10.0\AreaCalculator.deps.json
+C:\C# Language\AreaCalculator\bin\Debug\net10.0\AreaCalculator.runtimeconfig.json
+C:\C# Language\AreaCalculator\bin\Debug\net10.0\AreaCalculator.dll
+C:\C# Language\AreaCalculator\bin\Debug\net10.0\AreaCalculator.pdb
+C:\C# Language\AreaCalculator\obj\Debug\net10.0\AreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Language\AreaCalculator\obj\Debug\net10.0\AreaCalculator.AssemblyInfoInputs.cache
+C:\C# Language\AreaCalculator\obj\Debug\net10.0\AreaCalculator.AssemblyInfo.cs
+C:\C# Language\AreaCalculator\obj\Debug\net10.0\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\C# Language\AreaCalculator\obj\Debug\net10.0\AreaCalculator.sourcelink.json
+C:\C# Language\AreaCalculator\obj\Debug\net10.0\AreaCalculator.dll
+C:\C# Language\AreaCalculator\obj\Debug\net10.0\refint\AreaCalculator.dll
+C:\C# Language\AreaCalculator\obj\Debug\net10.0\AreaCalculator.pdb
+C:\C# Language\AreaCalculator\obj\Debug\net10.0\AreaCalculator.genruntimeconfig.cache
+C:\C# Language\AreaCalculator\obj\Debug\net10.0\ref\AreaCalculator.dll
