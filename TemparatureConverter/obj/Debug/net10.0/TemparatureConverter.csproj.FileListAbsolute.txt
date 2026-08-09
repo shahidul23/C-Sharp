@@ -1,0 +1,15 @@
+C:\C# Language\TemparatureConverter\bin\Debug\net10.0\TemparatureConverter.exe
+C:\C# Language\TemparatureConverter\bin\Debug\net10.0\TemparatureConverter.deps.json
+C:\C# Language\TemparatureConverter\bin\Debug\net10.0\TemparatureConverter.runtimeconfig.json
+C:\C# Language\TemparatureConverter\bin\Debug\net10.0\TemparatureConverter.dll
+C:\C# Language\TemparatureConverter\bin\Debug\net10.0\TemparatureConverter.pdb
+C:\C# Language\TemparatureConverter\obj\Debug\net10.0\TemparatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Language\TemparatureConverter\obj\Debug\net10.0\TemparatureConverter.AssemblyInfoInputs.cache
+C:\C# Language\TemparatureConverter\obj\Debug\net10.0\TemparatureConverter.AssemblyInfo.cs
+C:\C# Language\TemparatureConverter\obj\Debug\net10.0\TemparatureConverter.csproj.CoreCompileInputs.cache
+C:\C# Language\TemparatureConverter\obj\Debug\net10.0\TemparatureConverter.sourcelink.json
+C:\C# Language\TemparatureConverter\obj\Debug\net10.0\TemparatureConverter.dll
+C:\C# Language\TemparatureConverter\obj\Debug\net10.0\refint\TemparatureConverter.dll
+C:\C# Language\TemparatureConverter\obj\Debug\net10.0\TemparatureConverter.pdb
+C:\C# Language\TemparatureConverter\obj\Debug\net10.0\TemparatureConverter.genruntimeconfig.cache
+C:\C# Language\TemparatureConverter\obj\Debug\net10.0\ref\TemparatureConverter.dll
