@@ -1,0 +1,15 @@
+C:\Dot Net\C-Sharp\ParcticeProblem\bin\Debug\net10.0\ParcticeProblem.exe
+C:\Dot Net\C-Sharp\ParcticeProblem\bin\Debug\net10.0\ParcticeProblem.deps.json
+C:\Dot Net\C-Sharp\ParcticeProblem\bin\Debug\net10.0\ParcticeProblem.runtimeconfig.json
+C:\Dot Net\C-Sharp\ParcticeProblem\bin\Debug\net10.0\ParcticeProblem.dll
+C:\Dot Net\C-Sharp\ParcticeProblem\bin\Debug\net10.0\ParcticeProblem.pdb
+C:\Dot Net\C-Sharp\ParcticeProblem\obj\Debug\net10.0\ParcticeProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot Net\C-Sharp\ParcticeProblem\obj\Debug\net10.0\ParcticeProblem.AssemblyInfoInputs.cache
+C:\Dot Net\C-Sharp\ParcticeProblem\obj\Debug\net10.0\ParcticeProblem.AssemblyInfo.cs
+C:\Dot Net\C-Sharp\ParcticeProblem\obj\Debug\net10.0\ParcticeProblem.csproj.CoreCompileInputs.cache
+C:\Dot Net\C-Sharp\ParcticeProblem\obj\Debug\net10.0\ParcticeProblem.sourcelink.json
+C:\Dot Net\C-Sharp\ParcticeProblem\obj\Debug\net10.0\ParcticeProblem.dll
+C:\Dot Net\C-Sharp\ParcticeProblem\obj\Debug\net10.0\refint\ParcticeProblem.dll
+C:\Dot Net\C-Sharp\ParcticeProblem\obj\Debug\net10.0\ParcticeProblem.pdb
+C:\Dot Net\C-Sharp\ParcticeProblem\obj\Debug\net10.0\ParcticeProblem.genruntimeconfig.cache
+C:\Dot Net\C-Sharp\ParcticeProblem\obj\Debug\net10.0\ref\ParcticeProblem.dll

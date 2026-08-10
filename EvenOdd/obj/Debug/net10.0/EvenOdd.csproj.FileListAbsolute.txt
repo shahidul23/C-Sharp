@@ -1,0 +1,15 @@
+C:\C# Language\EvenOdd\bin\Debug\net10.0\EvenOdd.exe
+C:\C# Language\EvenOdd\bin\Debug\net10.0\EvenOdd.deps.json
+C:\C# Language\EvenOdd\bin\Debug\net10.0\EvenOdd.runtimeconfig.json
+C:\C# Language\EvenOdd\bin\Debug\net10.0\EvenOdd.dll
+C:\C# Language\EvenOdd\bin\Debug\net10.0\EvenOdd.pdb
+C:\C# Language\EvenOdd\obj\Debug\net10.0\EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Language\EvenOdd\obj\Debug\net10.0\EvenOdd.AssemblyInfoInputs.cache
+C:\C# Language\EvenOdd\obj\Debug\net10.0\EvenOdd.AssemblyInfo.cs
+C:\C# Language\EvenOdd\obj\Debug\net10.0\EvenOdd.csproj.CoreCompileInputs.cache
+C:\C# Language\EvenOdd\obj\Debug\net10.0\EvenOdd.sourcelink.json
+C:\C# Language\EvenOdd\obj\Debug\net10.0\EvenOdd.dll
+C:\C# Language\EvenOdd\obj\Debug\net10.0\refint\EvenOdd.dll
+C:\C# Language\EvenOdd\obj\Debug\net10.0\EvenOdd.pdb
+C:\C# Language\EvenOdd\obj\Debug\net10.0\EvenOdd.genruntimeconfig.cache
+C:\C# Language\EvenOdd\obj\Debug\net10.0\ref\EvenOdd.dll

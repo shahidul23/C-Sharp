@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dot Net\\C-Sharp\\AssignmentOperators\\AssignmentOperators.csproj",
-      "projectName": "AssignmentOperators",
-      "projectPath": "C:\\Dot Net\\C-Sharp\\AssignmentOperators\\AssignmentOperators.csproj",
+      "projectUniqueName": "c:\\Dot Net\\C-Sharp\\IfElse\\IfElse.csproj",
+      "projectName": "IfElse",
+      "projectPath": "c:\\Dot Net\\C-Sharp\\IfElse\\IfElse.csproj",
       "packagesPath": "C:\\Users\\shahi\\.nuget\\packages\\",
-      "outputPath": "C:\\Dot Net\\C-Sharp\\AssignmentOperators\\obj\\",
+      "outputPath": "c:\\Dot Net\\C-Sharp\\IfElse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shahi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -344,13 +344,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Dot Net\\C-Sharp\\AssignmentOperators\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
-    }
-  ]
+  }
 }
