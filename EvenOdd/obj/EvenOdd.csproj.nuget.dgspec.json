@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C# Language\\AssignmentOperators\\AssignmentOperators.csproj": {}
+    "c:\\C# Language\\EvenOdd\\EvenOdd.csproj": {}
   },
   "projects": {
-    "c:\\C# Language\\AssignmentOperators\\AssignmentOperators.csproj": {
+    "c:\\C# Language\\EvenOdd\\EvenOdd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C# Language\\AssignmentOperators\\AssignmentOperators.csproj",
-        "projectName": "AssignmentOperators",
-        "projectPath": "c:\\C# Language\\AssignmentOperators\\AssignmentOperators.csproj",
+        "projectUniqueName": "c:\\C# Language\\EvenOdd\\EvenOdd.csproj",
+        "projectName": "EvenOdd",
+        "projectPath": "c:\\C# Language\\EvenOdd\\EvenOdd.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\C# Language\\AssignmentOperators\\obj\\",
+        "outputPath": "c:\\C# Language\\EvenOdd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
