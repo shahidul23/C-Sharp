@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\shahi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C# Language\\First Program\\C# Language.csproj",
+      "projectUniqueName": "C:\\Dot Net\\C-Sharp\\First Program\\C# Language.csproj",
       "projectName": "C# Language",
-      "projectPath": "C:\\C# Language\\First Program\\C# Language.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\C# Language\\First Program\\obj\\",
+      "projectPath": "C:\\Dot Net\\C-Sharp\\First Program\\C# Language.csproj",
+      "packagesPath": "C:\\Users\\shahi\\.nuget\\packages\\",
+      "outputPath": "C:\\Dot Net\\C-Sharp\\First Program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\shahi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
