@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C# Language\\IfElse\\IfElse.csproj": {}
+    "C:\\C# Language\\IfElse\\IfElse.csproj": {}
   },
   "projects": {
-    "c:\\C# Language\\IfElse\\IfElse.csproj": {
+    "C:\\C# Language\\IfElse\\IfElse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C# Language\\IfElse\\IfElse.csproj",
+        "projectUniqueName": "C:\\C# Language\\IfElse\\IfElse.csproj",
         "projectName": "IfElse",
-        "projectPath": "c:\\C# Language\\IfElse\\IfElse.csproj",
+        "projectPath": "C:\\C# Language\\IfElse\\IfElse.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\C# Language\\IfElse\\obj\\",
+        "outputPath": "C:\\C# Language\\IfElse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

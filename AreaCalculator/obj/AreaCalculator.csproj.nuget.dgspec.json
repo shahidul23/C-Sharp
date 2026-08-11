@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C# Language\\AreaCalculator\\AreaCalculator.csproj": {}
+    "C:\\C# Language\\AreaCalculator\\AreaCalculator.csproj": {}
   },
   "projects": {
-    "c:\\C# Language\\AreaCalculator\\AreaCalculator.csproj": {
+    "C:\\C# Language\\AreaCalculator\\AreaCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C# Language\\AreaCalculator\\AreaCalculator.csproj",
+        "projectUniqueName": "C:\\C# Language\\AreaCalculator\\AreaCalculator.csproj",
         "projectName": "AreaCalculator",
-        "projectPath": "c:\\C# Language\\AreaCalculator\\AreaCalculator.csproj",
+        "projectPath": "C:\\C# Language\\AreaCalculator\\AreaCalculator.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\C# Language\\AreaCalculator\\obj\\",
+        "outputPath": "C:\\C# Language\\AreaCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

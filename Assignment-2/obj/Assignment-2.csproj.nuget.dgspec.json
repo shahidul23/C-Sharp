@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C# Language\\Assignment-2\\Assignment-2.csproj": {}
+    "C:\\C# Language\\Assignment-2\\Assignment-2.csproj": {}
   },
   "projects": {
-    "c:\\C# Language\\Assignment-2\\Assignment-2.csproj": {
+    "C:\\C# Language\\Assignment-2\\Assignment-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C# Language\\Assignment-2\\Assignment-2.csproj",
+        "projectUniqueName": "C:\\C# Language\\Assignment-2\\Assignment-2.csproj",
         "projectName": "Assignment-2",
-        "projectPath": "c:\\C# Language\\Assignment-2\\Assignment-2.csproj",
+        "projectPath": "C:\\C# Language\\Assignment-2\\Assignment-2.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\C# Language\\Assignment-2\\obj\\",
+        "outputPath": "C:\\C# Language\\Assignment-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

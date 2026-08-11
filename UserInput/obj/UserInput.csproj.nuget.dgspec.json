@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C# Language\\UserInput\\UserInput.csproj": {}
+    "C:\\C# Language\\UserInput\\UserInput.csproj": {}
   },
   "projects": {
-    "c:\\C# Language\\UserInput\\UserInput.csproj": {
+    "C:\\C# Language\\UserInput\\UserInput.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C# Language\\UserInput\\UserInput.csproj",
+        "projectUniqueName": "C:\\C# Language\\UserInput\\UserInput.csproj",
         "projectName": "UserInput",
-        "projectPath": "c:\\C# Language\\UserInput\\UserInput.csproj",
+        "projectPath": "C:\\C# Language\\UserInput\\UserInput.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\C# Language\\UserInput\\obj\\",
+        "outputPath": "C:\\C# Language\\UserInput\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
