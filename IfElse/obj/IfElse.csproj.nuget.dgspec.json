@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C# Language\\IfElse\\IfElse.csproj": {}
+    "c:\\Dot Net\\C-Sharp\\IfElse\\IfElse.csproj": {}
   },
   "projects": {
-    "c:\\C# Language\\IfElse\\IfElse.csproj": {
+    "c:\\Dot Net\\C-Sharp\\IfElse\\IfElse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C# Language\\IfElse\\IfElse.csproj",
+        "projectUniqueName": "c:\\Dot Net\\C-Sharp\\IfElse\\IfElse.csproj",
         "projectName": "IfElse",
-        "projectPath": "c:\\C# Language\\IfElse\\IfElse.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\C# Language\\IfElse\\obj\\",
+        "projectPath": "c:\\Dot Net\\C-Sharp\\IfElse\\IfElse.csproj",
+        "packagesPath": "C:\\Users\\shahi\\.nuget\\packages\\",
+        "outputPath": "c:\\Dot Net\\C-Sharp\\IfElse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\shahi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

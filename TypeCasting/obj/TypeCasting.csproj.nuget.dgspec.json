@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C# Language\\TypeCasting\\TypeCasting.csproj": {}
+    "C:\\Dot Net\\C-Sharp\\TypeCasting\\TypeCasting.csproj": {}
   },
   "projects": {
-    "c:\\C# Language\\TypeCasting\\TypeCasting.csproj": {
+    "C:\\Dot Net\\C-Sharp\\TypeCasting\\TypeCasting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C# Language\\TypeCasting\\TypeCasting.csproj",
+        "projectUniqueName": "C:\\Dot Net\\C-Sharp\\TypeCasting\\TypeCasting.csproj",
         "projectName": "TypeCasting",
-        "projectPath": "c:\\C# Language\\TypeCasting\\TypeCasting.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\C# Language\\TypeCasting\\obj\\",
+        "projectPath": "C:\\Dot Net\\C-Sharp\\TypeCasting\\TypeCasting.csproj",
+        "packagesPath": "C:\\Users\\shahi\\.nuget\\packages\\",
+        "outputPath": "C:\\Dot Net\\C-Sharp\\TypeCasting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\shahi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
