@@ -1,0 +1,15 @@
+C:\Dot Net\C-Sharp\OOP\bin\Debug\net10.0\OOP.exe
+C:\Dot Net\C-Sharp\OOP\bin\Debug\net10.0\OOP.deps.json
+C:\Dot Net\C-Sharp\OOP\bin\Debug\net10.0\OOP.runtimeconfig.json
+C:\Dot Net\C-Sharp\OOP\bin\Debug\net10.0\OOP.dll
+C:\Dot Net\C-Sharp\OOP\bin\Debug\net10.0\OOP.pdb
+C:\Dot Net\C-Sharp\OOP\obj\Debug\net10.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot Net\C-Sharp\OOP\obj\Debug\net10.0\OOP.AssemblyInfoInputs.cache
+C:\Dot Net\C-Sharp\OOP\obj\Debug\net10.0\OOP.AssemblyInfo.cs
+C:\Dot Net\C-Sharp\OOP\obj\Debug\net10.0\OOP.csproj.CoreCompileInputs.cache
+C:\Dot Net\C-Sharp\OOP\obj\Debug\net10.0\OOP.sourcelink.json
+C:\Dot Net\C-Sharp\OOP\obj\Debug\net10.0\OOP.dll
+C:\Dot Net\C-Sharp\OOP\obj\Debug\net10.0\refint\OOP.dll
+C:\Dot Net\C-Sharp\OOP\obj\Debug\net10.0\OOP.pdb
+C:\Dot Net\C-Sharp\OOP\obj\Debug\net10.0\OOP.genruntimeconfig.cache
+C:\Dot Net\C-Sharp\OOP\obj\Debug\net10.0\ref\OOP.dll
