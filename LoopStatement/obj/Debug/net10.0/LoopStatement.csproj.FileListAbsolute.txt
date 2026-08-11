@@ -1,0 +1,15 @@
+C:\C# Language\LoopStatement\bin\Debug\net10.0\LoopStatement.exe
+C:\C# Language\LoopStatement\bin\Debug\net10.0\LoopStatement.deps.json
+C:\C# Language\LoopStatement\bin\Debug\net10.0\LoopStatement.runtimeconfig.json
+C:\C# Language\LoopStatement\bin\Debug\net10.0\LoopStatement.dll
+C:\C# Language\LoopStatement\bin\Debug\net10.0\LoopStatement.pdb
+C:\C# Language\LoopStatement\obj\Debug\net10.0\LoopStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Language\LoopStatement\obj\Debug\net10.0\LoopStatement.AssemblyInfoInputs.cache
+C:\C# Language\LoopStatement\obj\Debug\net10.0\LoopStatement.AssemblyInfo.cs
+C:\C# Language\LoopStatement\obj\Debug\net10.0\LoopStatement.csproj.CoreCompileInputs.cache
+C:\C# Language\LoopStatement\obj\Debug\net10.0\LoopStatement.sourcelink.json
+C:\C# Language\LoopStatement\obj\Debug\net10.0\LoopStatement.dll
+C:\C# Language\LoopStatement\obj\Debug\net10.0\refint\LoopStatement.dll
+C:\C# Language\LoopStatement\obj\Debug\net10.0\LoopStatement.pdb
+C:\C# Language\LoopStatement\obj\Debug\net10.0\LoopStatement.genruntimeconfig.cache
+C:\C# Language\LoopStatement\obj\Debug\net10.0\ref\LoopStatement.dll

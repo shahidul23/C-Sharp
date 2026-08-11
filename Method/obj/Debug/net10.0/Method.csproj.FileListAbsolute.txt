@@ -1,0 +1,15 @@
+C:\C# Language\Method\bin\Debug\net10.0\Method.exe
+C:\C# Language\Method\bin\Debug\net10.0\Method.deps.json
+C:\C# Language\Method\bin\Debug\net10.0\Method.runtimeconfig.json
+C:\C# Language\Method\bin\Debug\net10.0\Method.dll
+C:\C# Language\Method\bin\Debug\net10.0\Method.pdb
+C:\C# Language\Method\obj\Debug\net10.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Language\Method\obj\Debug\net10.0\Method.AssemblyInfoInputs.cache
+C:\C# Language\Method\obj\Debug\net10.0\Method.AssemblyInfo.cs
+C:\C# Language\Method\obj\Debug\net10.0\Method.csproj.CoreCompileInputs.cache
+C:\C# Language\Method\obj\Debug\net10.0\Method.sourcelink.json
+C:\C# Language\Method\obj\Debug\net10.0\Method.dll
+C:\C# Language\Method\obj\Debug\net10.0\refint\Method.dll
+C:\C# Language\Method\obj\Debug\net10.0\Method.pdb
+C:\C# Language\Method\obj\Debug\net10.0\Method.genruntimeconfig.cache
+C:\C# Language\Method\obj\Debug\net10.0\ref\Method.dll
