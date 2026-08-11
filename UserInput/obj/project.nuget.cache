@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "tgY/U0pqtWw=",
+  "dgSpecHash": "7ojp1G8szDg=",
   "success": true,
-  "projectFilePath": "C:\\Dot Net\\C-Sharp\\UserInput\\UserInput.csproj",
+  "projectFilePath": "C:\\C# Language\\UserInput\\UserInput.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\C# Language\\UserInput\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\C# Language\\UserInput\\UserInput.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\C# Language\\UserInput\\UserInput.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

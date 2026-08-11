@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dot Net\\C-Sharp\\TemparatureConverter\\TemparatureConverter.csproj": {}
+    "C:\\C# Language\\TemparatureConverter\\TemparatureConverter.csproj": {}
   },
   "projects": {
-    "C:\\Dot Net\\C-Sharp\\TemparatureConverter\\TemparatureConverter.csproj": {
+    "C:\\C# Language\\TemparatureConverter\\TemparatureConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dot Net\\C-Sharp\\TemparatureConverter\\TemparatureConverter.csproj",
+        "projectUniqueName": "C:\\C# Language\\TemparatureConverter\\TemparatureConverter.csproj",
         "projectName": "TemparatureConverter",
-        "projectPath": "C:\\Dot Net\\C-Sharp\\TemparatureConverter\\TemparatureConverter.csproj",
-        "packagesPath": "C:\\Users\\shahi\\.nuget\\packages\\",
-        "outputPath": "C:\\Dot Net\\C-Sharp\\TemparatureConverter\\obj\\",
+        "projectPath": "C:\\C# Language\\TemparatureConverter\\TemparatureConverter.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\C# Language\\TemparatureConverter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shahi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dot Net\\C-Sharp\\AssignmentOperators\\AssignmentOperators.csproj": {}
+    "C:\\C# Language\\AssignmentOperators\\AssignmentOperators.csproj": {}
   },
   "projects": {
-    "C:\\Dot Net\\C-Sharp\\AssignmentOperators\\AssignmentOperators.csproj": {
+    "C:\\C# Language\\AssignmentOperators\\AssignmentOperators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dot Net\\C-Sharp\\AssignmentOperators\\AssignmentOperators.csproj",
+        "projectUniqueName": "C:\\C# Language\\AssignmentOperators\\AssignmentOperators.csproj",
         "projectName": "AssignmentOperators",
-        "projectPath": "C:\\Dot Net\\C-Sharp\\AssignmentOperators\\AssignmentOperators.csproj",
-        "packagesPath": "C:\\Users\\shahi\\.nuget\\packages\\",
-        "outputPath": "C:\\Dot Net\\C-Sharp\\AssignmentOperators\\obj\\",
+        "projectPath": "C:\\C# Language\\AssignmentOperators\\AssignmentOperators.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\C# Language\\AssignmentOperators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shahi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

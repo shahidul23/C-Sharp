@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParcticeProblem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15480a55143e15274a758dcfc94ca6bb27d009ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+babb8fcee5000c96d1acaaf4419d6b0fe92125bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParcticeProblem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParcticeProblem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
