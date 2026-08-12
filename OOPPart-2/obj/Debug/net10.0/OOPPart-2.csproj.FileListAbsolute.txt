@@ -1,0 +1,15 @@
+C:\C# Language\OOPPart-2\bin\Debug\net10.0\OOPPart-2.exe
+C:\C# Language\OOPPart-2\bin\Debug\net10.0\OOPPart-2.deps.json
+C:\C# Language\OOPPart-2\bin\Debug\net10.0\OOPPart-2.runtimeconfig.json
+C:\C# Language\OOPPart-2\bin\Debug\net10.0\OOPPart-2.dll
+C:\C# Language\OOPPart-2\bin\Debug\net10.0\OOPPart-2.pdb
+C:\C# Language\OOPPart-2\obj\Debug\net10.0\OOPPart-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Language\OOPPart-2\obj\Debug\net10.0\OOPPart-2.AssemblyInfoInputs.cache
+C:\C# Language\OOPPart-2\obj\Debug\net10.0\OOPPart-2.AssemblyInfo.cs
+C:\C# Language\OOPPart-2\obj\Debug\net10.0\OOPPart-2.csproj.CoreCompileInputs.cache
+C:\C# Language\OOPPart-2\obj\Debug\net10.0\OOPPart-2.sourcelink.json
+C:\C# Language\OOPPart-2\obj\Debug\net10.0\OOPPart-2.dll
+C:\C# Language\OOPPart-2\obj\Debug\net10.0\refint\OOPPart-2.dll
+C:\C# Language\OOPPart-2\obj\Debug\net10.0\OOPPart-2.pdb
+C:\C# Language\OOPPart-2\obj\Debug\net10.0\OOPPart-2.genruntimeconfig.cache
+C:\C# Language\OOPPart-2\obj\Debug\net10.0\ref\OOPPart-2.dll
