@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C# Language\\ParcticeProblem\\ParcticeProblem.csproj": {}
+    "C:\\C# Language\\ParcticeProblem\\ParcticeProblem.csproj": {}
   },
   "projects": {
-    "c:\\C# Language\\ParcticeProblem\\ParcticeProblem.csproj": {
+    "C:\\C# Language\\ParcticeProblem\\ParcticeProblem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C# Language\\ParcticeProblem\\ParcticeProblem.csproj",
+        "projectUniqueName": "C:\\C# Language\\ParcticeProblem\\ParcticeProblem.csproj",
         "projectName": "ParcticeProblem",
-        "projectPath": "c:\\C# Language\\ParcticeProblem\\ParcticeProblem.csproj",
+        "projectPath": "C:\\C# Language\\ParcticeProblem\\ParcticeProblem.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\C# Language\\ParcticeProblem\\obj\\",
+        "outputPath": "C:\\C# Language\\ParcticeProblem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
