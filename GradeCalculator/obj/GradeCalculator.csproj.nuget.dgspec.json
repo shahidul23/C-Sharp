@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C# Language\\GradeCalculator\\GradeCalculator.csproj": {}
+    "C:\\Dot Net\\C-Sharp\\GradeCalculator\\GradeCalculator.csproj": {}
   },
   "projects": {
-    "C:\\C# Language\\GradeCalculator\\GradeCalculator.csproj": {
+    "C:\\Dot Net\\C-Sharp\\GradeCalculator\\GradeCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# Language\\GradeCalculator\\GradeCalculator.csproj",
+        "projectUniqueName": "C:\\Dot Net\\C-Sharp\\GradeCalculator\\GradeCalculator.csproj",
         "projectName": "GradeCalculator",
-        "projectPath": "C:\\C# Language\\GradeCalculator\\GradeCalculator.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\C# Language\\GradeCalculator\\obj\\",
+        "projectPath": "C:\\Dot Net\\C-Sharp\\GradeCalculator\\GradeCalculator.csproj",
+        "packagesPath": "C:\\Users\\shahi\\.nuget\\packages\\",
+        "outputPath": "C:\\Dot Net\\C-Sharp\\GradeCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\shahi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

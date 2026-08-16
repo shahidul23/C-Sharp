@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\shahi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C# Language\\WhileLoop\\WhileLoop.csproj",
+      "projectUniqueName": "C:\\Dot Net\\C-Sharp\\WhileLoop\\WhileLoop.csproj",
       "projectName": "WhileLoop",
-      "projectPath": "C:\\C# Language\\WhileLoop\\WhileLoop.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\C# Language\\WhileLoop\\obj\\",
+      "projectPath": "C:\\Dot Net\\C-Sharp\\WhileLoop\\WhileLoop.csproj",
+      "packagesPath": "C:\\Users\\shahi\\.nuget\\packages\\",
+      "outputPath": "C:\\Dot Net\\C-Sharp\\WhileLoop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\shahi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

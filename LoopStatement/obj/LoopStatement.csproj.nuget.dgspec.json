@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C# Language\\LoopStatement\\LoopStatement.csproj": {}
+    "C:\\Dot Net\\C-Sharp\\LoopStatement\\LoopStatement.csproj": {}
   },
   "projects": {
-    "C:\\C# Language\\LoopStatement\\LoopStatement.csproj": {
+    "C:\\Dot Net\\C-Sharp\\LoopStatement\\LoopStatement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# Language\\LoopStatement\\LoopStatement.csproj",
+        "projectUniqueName": "C:\\Dot Net\\C-Sharp\\LoopStatement\\LoopStatement.csproj",
         "projectName": "LoopStatement",
-        "projectPath": "C:\\C# Language\\LoopStatement\\LoopStatement.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\C# Language\\LoopStatement\\obj\\",
+        "projectPath": "C:\\Dot Net\\C-Sharp\\LoopStatement\\LoopStatement.csproj",
+        "packagesPath": "C:\\Users\\shahi\\.nuget\\packages\\",
+        "outputPath": "C:\\Dot Net\\C-Sharp\\LoopStatement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\shahi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

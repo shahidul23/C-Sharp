@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UkVZWgxVNqw=",
+  "dgSpecHash": "uOYXRR4TNGw=",
   "success": true,
-  "projectFilePath": "C:\\C# Language\\TemparatureConverter\\TemparatureConverter.csproj",
+  "projectFilePath": "C:\\Dot Net\\C-Sharp\\TemparatureConverter\\TemparatureConverter.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "Problem reading the cache file C:\\C# Language\\TemparatureConverter\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "C:\\C# Language\\TemparatureConverter\\TemparatureConverter.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\C# Language\\TemparatureConverter\\TemparatureConverter.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1NjPcBfDRlQ=",
+  "dgSpecHash": "rpXMQ/OXnbI=",
   "success": true,
-  "projectFilePath": "C:\\C# Language\\TypeCasting\\TypeCasting.csproj",
+  "projectFilePath": "C:\\Dot Net\\C-Sharp\\TypeCasting\\TypeCasting.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "Problem reading the cache file C:\\C# Language\\TypeCasting\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "C:\\C# Language\\TypeCasting\\TypeCasting.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\C# Language\\TypeCasting\\TypeCasting.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\shahi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\C# Language\\ParcticeProblem\\ParcticeProblem.csproj",
+      "projectUniqueName": "C:\\Dot Net\\C-Sharp\\ParcticeProblem\\ParcticeProblem.csproj",
       "projectName": "ParcticeProblem",
-      "projectPath": "c:\\C# Language\\ParcticeProblem\\ParcticeProblem.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "c:\\C# Language\\ParcticeProblem\\obj\\",
+      "projectPath": "C:\\Dot Net\\C-Sharp\\ParcticeProblem\\ParcticeProblem.csproj",
+      "packagesPath": "C:\\Users\\shahi\\.nuget\\packages\\",
+      "outputPath": "C:\\Dot Net\\C-Sharp\\ParcticeProblem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\shahi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

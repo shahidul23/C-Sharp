@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/nvwEJkrfWA=",
+  "dgSpecHash": "5j7N6QM5TV0=",
   "success": true,
-  "projectFilePath": "C:\\C# Language\\AssignmentOperators\\AssignmentOperators.csproj",
+  "projectFilePath": "C:\\Dot Net\\C-Sharp\\AssignmentOperators\\AssignmentOperators.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "Problem reading the cache file C:\\C# Language\\AssignmentOperators\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "C:\\C# Language\\AssignmentOperators\\AssignmentOperators.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\C# Language\\AssignmentOperators\\AssignmentOperators.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }
