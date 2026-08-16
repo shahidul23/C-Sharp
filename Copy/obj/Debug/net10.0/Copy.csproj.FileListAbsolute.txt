@@ -1,0 +1,15 @@
+C:\C# Language\Copy\bin\Debug\net10.0\Copy.exe
+C:\C# Language\Copy\bin\Debug\net10.0\Copy.deps.json
+C:\C# Language\Copy\bin\Debug\net10.0\Copy.runtimeconfig.json
+C:\C# Language\Copy\bin\Debug\net10.0\Copy.dll
+C:\C# Language\Copy\bin\Debug\net10.0\Copy.pdb
+C:\C# Language\Copy\obj\Debug\net10.0\Copy.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Language\Copy\obj\Debug\net10.0\Copy.AssemblyInfoInputs.cache
+C:\C# Language\Copy\obj\Debug\net10.0\Copy.AssemblyInfo.cs
+C:\C# Language\Copy\obj\Debug\net10.0\Copy.csproj.CoreCompileInputs.cache
+C:\C# Language\Copy\obj\Debug\net10.0\Copy.sourcelink.json
+C:\C# Language\Copy\obj\Debug\net10.0\Copy.dll
+C:\C# Language\Copy\obj\Debug\net10.0\refint\Copy.dll
+C:\C# Language\Copy\obj\Debug\net10.0\Copy.pdb
+C:\C# Language\Copy\obj\Debug\net10.0\Copy.genruntimeconfig.cache
+C:\C# Language\Copy\obj\Debug\net10.0\ref\Copy.dll

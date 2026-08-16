@@ -1,0 +1,15 @@
+C:\Dot Net\C-Sharp\LINQPart-2\bin\Debug\net10.0\LINQPart-2.exe
+C:\Dot Net\C-Sharp\LINQPart-2\bin\Debug\net10.0\LINQPart-2.deps.json
+C:\Dot Net\C-Sharp\LINQPart-2\bin\Debug\net10.0\LINQPart-2.runtimeconfig.json
+C:\Dot Net\C-Sharp\LINQPart-2\bin\Debug\net10.0\LINQPart-2.dll
+C:\Dot Net\C-Sharp\LINQPart-2\bin\Debug\net10.0\LINQPart-2.pdb
+C:\Dot Net\C-Sharp\LINQPart-2\obj\Debug\net10.0\LINQPart-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot Net\C-Sharp\LINQPart-2\obj\Debug\net10.0\LINQPart-2.AssemblyInfoInputs.cache
+C:\Dot Net\C-Sharp\LINQPart-2\obj\Debug\net10.0\LINQPart-2.AssemblyInfo.cs
+C:\Dot Net\C-Sharp\LINQPart-2\obj\Debug\net10.0\LINQPart-2.csproj.CoreCompileInputs.cache
+C:\Dot Net\C-Sharp\LINQPart-2\obj\Debug\net10.0\LINQPart-2.sourcelink.json
+C:\Dot Net\C-Sharp\LINQPart-2\obj\Debug\net10.0\LINQPart-2.dll
+C:\Dot Net\C-Sharp\LINQPart-2\obj\Debug\net10.0\refint\LINQPart-2.dll
+C:\Dot Net\C-Sharp\LINQPart-2\obj\Debug\net10.0\LINQPart-2.pdb
+C:\Dot Net\C-Sharp\LINQPart-2\obj\Debug\net10.0\LINQPart-2.genruntimeconfig.cache
+C:\Dot Net\C-Sharp\LINQPart-2\obj\Debug\net10.0\ref\LINQPart-2.dll

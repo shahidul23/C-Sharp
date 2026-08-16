@@ -1,0 +1,15 @@
+C:\C# Language\AssignmentStudentManagement\bin\Debug\net10.0\AssignmentStudentManagement.exe
+C:\C# Language\AssignmentStudentManagement\bin\Debug\net10.0\AssignmentStudentManagement.deps.json
+C:\C# Language\AssignmentStudentManagement\bin\Debug\net10.0\AssignmentStudentManagement.runtimeconfig.json
+C:\C# Language\AssignmentStudentManagement\bin\Debug\net10.0\AssignmentStudentManagement.dll
+C:\C# Language\AssignmentStudentManagement\bin\Debug\net10.0\AssignmentStudentManagement.pdb
+C:\C# Language\AssignmentStudentManagement\obj\Debug\net10.0\AssignmentStudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Language\AssignmentStudentManagement\obj\Debug\net10.0\AssignmentStudentManagement.AssemblyInfoInputs.cache
+C:\C# Language\AssignmentStudentManagement\obj\Debug\net10.0\AssignmentStudentManagement.AssemblyInfo.cs
+C:\C# Language\AssignmentStudentManagement\obj\Debug\net10.0\AssignmentStudentManagement.csproj.CoreCompileInputs.cache
+C:\C# Language\AssignmentStudentManagement\obj\Debug\net10.0\AssignmentStudentManagement.sourcelink.json
+C:\C# Language\AssignmentStudentManagement\obj\Debug\net10.0\AssignmentStudentManagement.dll
+C:\C# Language\AssignmentStudentManagement\obj\Debug\net10.0\refint\AssignmentStudentManagement.dll
+C:\C# Language\AssignmentStudentManagement\obj\Debug\net10.0\AssignmentStudentManagement.pdb
+C:\C# Language\AssignmentStudentManagement\obj\Debug\net10.0\AssignmentStudentManagement.genruntimeconfig.cache
+C:\C# Language\AssignmentStudentManagement\obj\Debug\net10.0\ref\AssignmentStudentManagement.dll

@@ -1,0 +1,15 @@
+C:\C# Language\arrayPart-2\bin\Debug\net10.0\arrayPart-2.exe
+C:\C# Language\arrayPart-2\bin\Debug\net10.0\arrayPart-2.deps.json
+C:\C# Language\arrayPart-2\bin\Debug\net10.0\arrayPart-2.runtimeconfig.json
+C:\C# Language\arrayPart-2\bin\Debug\net10.0\arrayPart-2.dll
+C:\C# Language\arrayPart-2\bin\Debug\net10.0\arrayPart-2.pdb
+C:\C# Language\arrayPart-2\obj\Debug\net10.0\arrayPart-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Language\arrayPart-2\obj\Debug\net10.0\arrayPart-2.AssemblyInfoInputs.cache
+C:\C# Language\arrayPart-2\obj\Debug\net10.0\arrayPart-2.AssemblyInfo.cs
+C:\C# Language\arrayPart-2\obj\Debug\net10.0\arrayPart-2.csproj.CoreCompileInputs.cache
+C:\C# Language\arrayPart-2\obj\Debug\net10.0\arrayPart-2.sourcelink.json
+C:\C# Language\arrayPart-2\obj\Debug\net10.0\arrayPart-2.dll
+C:\C# Language\arrayPart-2\obj\Debug\net10.0\refint\arrayPart-2.dll
+C:\C# Language\arrayPart-2\obj\Debug\net10.0\arrayPart-2.pdb
+C:\C# Language\arrayPart-2\obj\Debug\net10.0\arrayPart-2.genruntimeconfig.cache
+C:\C# Language\arrayPart-2\obj\Debug\net10.0\ref\arrayPart-2.dll

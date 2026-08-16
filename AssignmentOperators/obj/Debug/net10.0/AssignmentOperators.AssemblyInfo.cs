@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AssignmentOperators")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82f411b38ff3c01e7e8084c375944efefb892283")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9481fdca567819a07075939af4376b7b6d49659c")]
+>>>>>>> fa2ae274cf5b0d5b83537c8fcae8207ce914595c
 [assembly: System.Reflection.AssemblyProductAttribute("AssignmentOperators")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AssignmentOperators")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
