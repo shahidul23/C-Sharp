@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C# Language\\AssignmentStudentManagement\\AssignmentStudentManagement.csproj": {}
+    "C:\\C# Language\\AssignmentStudentManagement\\AssignmentStudentManagement.csproj": {}
   },
   "projects": {
-    "c:\\C# Language\\AssignmentStudentManagement\\AssignmentStudentManagement.csproj": {
+    "C:\\C# Language\\AssignmentStudentManagement\\AssignmentStudentManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C# Language\\AssignmentStudentManagement\\AssignmentStudentManagement.csproj",
+        "projectUniqueName": "C:\\C# Language\\AssignmentStudentManagement\\AssignmentStudentManagement.csproj",
         "projectName": "AssignmentStudentManagement",
-        "projectPath": "c:\\C# Language\\AssignmentStudentManagement\\AssignmentStudentManagement.csproj",
+        "projectPath": "C:\\C# Language\\AssignmentStudentManagement\\AssignmentStudentManagement.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\C# Language\\AssignmentStudentManagement\\obj\\",
+        "outputPath": "C:\\C# Language\\AssignmentStudentManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
